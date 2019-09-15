@@ -1,0 +1,22 @@
+.body{
+    /* background-image: url("../Users/mac/Trivia-Game/Assets/Images/bgPartypic.jpg"); */
+    background-size: cover; 
+    background-color: black;
+    }
+
+
+.container{
+text-align: center;
+/* font-size: 75px; */
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.jumbotron{
+    background-image: url("/Users/mac/Trivia-Game/Assets/Images/bgPartypic.jpg");
+color: white;
+font-weight: bold;
+font-size: 300%;
+}
+
