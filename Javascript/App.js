@@ -3,8 +3,9 @@ var userAnswers = [];
 var correct = 0;
 var wrong = 0;
 var count = 99;
-var counterIncrement=-2;
+var counterIncrement=-1;
 var counter = setInterval(timer, 1000); 
+var images = ["/Users/mac/Trivia-Game/Assets/Images/20090824140403_21Paid_in_Full_pdgwms.jpeg","/Users/mac/Trivia-Game/Assets/Images/camMoney.gif", "/Users/mac/Trivia-Game/Assets/Images/a18059f7ee54bccf301b17e8662eb540.jpg"];
 
 
 function timer() {
